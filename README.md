@@ -1,16 +1,16 @@
-# 📈Time-Series Analysis and Modeling with NeuralProphet
-This project includes two Jupyter notebooks that showcase time series analysis and modeling using the NeuralProphet library.
-###### (Modeling and Multivariate Regression are essential tools for understanding how these pre-trained models work and how they can be effectively used to solve complex natural language processing problems. [Introduction à la Modélisation et à la Régression Multivariée](https://github.com/CatelloTheDataProjectManager/Introduction-Modelisation-Regression-Multivarie/blob/main/README.md))
+# 📈Modeling with NeuralProphet
 
-In the *"Zalando Stock Actions Analysis"* notebook, I analyze a time series dataset of historical stock prices for Zalando. The analysis includes measures of dispersion, trend, and frequency of extreme values, as well as testing for normality and stationarity. I also decompose the time series into its components and apply the Box-Cox transformation to stabilize the variance.
+In the "Time Serie Model with NeuralProphet" notebook, I use the NeuralProphet framework to build and train a neural network model for forecasting future values of a time series. The model is applied to a dataset of historical sales data, and autocorrelation and partial autocorrelation analysis are used to determine the appropriate lag order.
 
-In the *"Time Serie Model with NeuralProphet"* notebook, I build and train a NeuralProphet model to forecast future values of a time series. The model is applied to a dataset of historical sales data, and I use autocorrelation and partial autocorrelation analysis to determine the appropriate lag order. The forecasted values are then visualized and compared to the actual values.
+[Link to Jupyter Notebook](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Time%20Serie%20Model%20with%20NeuralProphet%20.ipynb)
 
-Both notebooks can be found at the following links:
+The NeuralProphet model is evaluated based on its root mean squared error (RMSE) and mean absolute error (MAE), which are common metrics for assessing the accuracy of time series forecasting models. The results show that the model has a low RMSE and MAE, indicating good forecast accuracy.
 
-- **Jupyter Notebook:** [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Zalando%20Stock%20Actions%20Analysis.ipynb)
-- **Jupyter Notebook:** [Time Serie Model with NeuralProphet](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Time%20Serie%20Model%20with%20NeuralProphet%20.ipynb)
+Additionally, the forecasted values are visualized and compared to the actual values to evaluate the model's performance. The results show that the NeuralProphet model is able to accurately forecast future values of the time series.
 
 | | |
 | --- | --- |
 | <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/newplot.png" width="800"> | <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/bokeh_plot.png" width="800"> |
+
+Overall, the NeuralProphet model is an efficient and effective tool for time series forecasting, with low RMSE and MAE values and accurate forecasts. It can be a valuable asset for businesses and organizations looking to make data-driven decisions based on historical trends and patterns.
+
