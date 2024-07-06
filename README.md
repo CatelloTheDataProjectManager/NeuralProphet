@@ -1,4 +1,4 @@
-# 📈Modeling with NeuralProphet
+<img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/neuralprophet.png" width="800">
 
 In the "Time Serie Model with NeuralProphet" notebook, I use the NeuralProphet framework to build and train a neural network model for forecasting future values of a time series. The model is applied to a dataset of historical sales data, and autocorrelation and partial autocorrelation analysis are used to determine the appropriate lag order.
 
