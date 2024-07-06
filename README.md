@@ -11,7 +11,6 @@ Both notebooks can be found at the following links:
 - **Jupyter Notebook:** [Zalando Stock Actions Analysis](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Zalando%20Stock%20Actions%20Analysis.ipynb)
 - **Jupyter Notebook:** [Time Serie Model with NeuralProphet](https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Time%20Serie%20Model%20with%20NeuralProphet%20.ipynb)
 
-
-<img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/Monthly%20Number%20of%20Airline%20Passengers.png" width="400">
-
-
+| | |
+| --- | --- |
+| <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/newplot.png" width="800"> | <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/bokeh_plot.png" width="800"> |
