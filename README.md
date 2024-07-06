@@ -10,7 +10,7 @@ Additionally, the forecasted values are visualized and compared to the actual va
 
 | | |
 | --- | --- |
-| <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/newplot.png" width="800"> | <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/bokeh_plot.png" width="800"> |
+| <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/newplot.png" width="800"> | <img src="https://github.com/CatelloTheDataProjectManager/Time-Series/blob/main/forecasts.png" width="800"> |
 
 Overall, the NeuralProphet model is an efficient and effective tool for time series forecasting, with low RMSE and MAE values and accurate forecasts. It can be a valuable asset for businesses and organizations looking to make data-driven decisions based on historical trends and patterns.
 
